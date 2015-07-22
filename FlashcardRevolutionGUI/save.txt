@@ -1,0 +1,21 @@
+8*4
+32
+math,multiplication,
+6
+5
+2 times 3
+6
+math,multiplication,
+6
+4
+hi
+stuff
+things,bye,
+7
+4
+what is the square root of 4?
+2
+square,root,
+7
+0
+#####end#####

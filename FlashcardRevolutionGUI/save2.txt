@@ -1,0 +1,21 @@
+3+3
+6
+math,addition,
+0
+0
+hi
+bye
+random,
+0
+0
+2*3
+6
+math,multiplication,
+0
+0
+What is 2+2?
+4
+math,addition,
+0
+0
+#####end#####
